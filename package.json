@@ -1,11 +1,11 @@
 {
-    "name": "gulp-copy",
-    "version": "4.0.1",
+    "name": "gulp-copy-es5",
+    "version": "4.0.2",
     "description": "Plugin copying files to a new destination and using that destination for other actions",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/klaascuvelier/gulp-copy"
+        "url": "https://github.com/gtzinos/gulp-copy"
     },
     "scripts": {
         "lint": "eslint ./lib -c ./.eslintrc",
@@ -19,13 +19,13 @@
         "gulp"
     ],
     "author": {
-        "name": "Klaas Cuvelier",
-        "email": "cuvelierklaas@gmail.com",
-        "url": "http://klaascuvelier.io"
+        "name": "George Tzinos",
+        "email": "geotzinos@gmail.com",
+        "url": "http://geotzinos.com"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/klaascuvelier/gulp-copy/issues"
+        "url": "https://github.com/gtzinos/gulp-copy/issues"
     },
     "devDependencies": {
         "eslint": "^5.2.0",
@@ -38,5 +38,5 @@
         "plugin-error": "^0.1.2",
         "through2": "^2.0.3"
     },
-    "homepage": "https://github.com/klaascuvelier/gulp-copy"
+    "homepage": "https://github.com/gtzinos/gulp-copy"
 }
