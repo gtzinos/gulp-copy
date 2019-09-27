@@ -5,7 +5,7 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/gtzinos/gulp-copy"
+        "url": "https://github.com/gtzinos/gulp-copy-es5"
     },
     "scripts": {
         "lint": "eslint ./lib -c ./.eslintrc",
@@ -38,5 +38,5 @@
         "plugin-error": "^0.1.2",
         "through2": "^2.0.3"
     },
-    "homepage": "https://github.com/gtzinos/gulp-copy"
+    "homepage": "https://github.com/gtzinos/gulp-copy-es5"
 }
